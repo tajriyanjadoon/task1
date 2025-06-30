@@ -10,4 +10,3 @@ This is a simple static portfolio website built using only HTML (no CSS yet). It
 - ✅ Skills / Tech Stack  
 - ✅ Projects Showcase  
 - ✅ Contact Form  
-- ✅ A fun developer-themed pickup line 😉
